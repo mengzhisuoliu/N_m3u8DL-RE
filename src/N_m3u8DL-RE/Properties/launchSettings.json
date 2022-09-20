@@ -2,7 +2,7 @@
   "profiles": {
     "N_m3u8DL-RE": {
       "commandName": "Project",
-      "commandLineArgs": " -h"
+      "commandLineArgs": " \"http://prd-vcache.edge-global.akamai.tvb.com/v11/mpsdrmv/_definst_/smil:vipo/mytvsuper15/55865/5586418/mps_000004490605_2.smil/index.m3u8?hdnea=ip=0.0.0.0~st=1637216101~exp=1637302501~acl=/v4/newsbks/_definst_/:news/*~st=1637215900~exp=2637215900~acl=*/*~hmac=55301dab174f0b07190ae1491b4c13a9182d886c9051857a629518e3befc5208\" --save-name 1 --append-url-params --custom-hls-key \"9GkBUCrDRHhFwiNXLXDLew==\" --binary-merge"
     }
   }
 }
